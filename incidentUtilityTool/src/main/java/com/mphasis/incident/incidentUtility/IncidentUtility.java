@@ -9,7 +9,7 @@ import java.util.*;
 
 public class IncidentUtility {
 
-    public static final String MASTER_SERVER_LIST_XLSX_FILE_PATH = "../MasterData/MasterServerList-1_new.xlsx";
+    public static final String MASTER_SERVER_LIST_XLSX_FILE_PATH = "../MasterData/MasterServerList-1.xlsx";
     public static final String TICKET_OWNER_XLSX_FILE_PATH = "../MasterData/TicketOwner_AppLead_master.xlsx";
     public static final String SOURCE_DIR = "../SourceData/";
     public static final String DESTINATION_DIR = "../DestinationData/";
